@@ -1,104 +1,90 @@
 <!--
+Style inspiration:
+- https://github.com/bardiesel/bardiesel/blob/main/readme.md
+
 Visual credits:
-- capsule-render: https://github.com/kyechan99/capsule-render
-- readme-typing-svg: https://github.com/DenverCoder1/readme-typing-svg
-- skill-icons: https://github.com/tandpfun/skill-icons
-- project cards: repo-hosted SVGs in ./assets for reliable GitHub rendering
+- Hi GIF: https://github.com/SatYu26/SatYu26
+- Typing SVG: https://github.com/DenverCoder1/readme-typing-svg
+- Badges: https://shields.io
 -->
 
-<p align="center">
-  <img alt="Jerry Robayo - frontend-focused full-stack developer" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:2563eb,100:14b8a6&text=Jerry%20Robayo&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Frontend-focused%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn">
-</p>
+# Hi there, I'm Jerry - aka LJebry <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=React+%2B+Next.js+interfaces;TypeScript-first+product+engineering;APIs%2C+auth%2C+real-time+flows%2C+and+AI+features;Frontend+polish+with+full-stack+ownership">
-  </a>
-</p>
+<img align="right" alt="Developer GIF" height="170px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="center">
-  <a href="https://github.com/LJebry">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-LJebry-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/LJebry/jerrys-portfolio-v2">
-    <img alt="Portfolio source" src="https://img.shields.io/badge/Portfolio-Source-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://github.com/LJebry?tab=repositories">
-    <img alt="Projects" src="https://img.shields.io/badge/Public_Projects-Explore-14B8A6?style=for-the-badge&logo=githubactions&logoColor=white">
-  </a>
-</p>
+## I'm a Frontend-Focused Full-Stack Developer
 
-## About
+<a href="https://git.io/typing-svg">
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=38BDF8&width=650&lines=React+%2B+Next.js+developer;TypeScript-first+frontend+engineer;Full-stack+builder+with+product+taste;Clean+UI%2C+APIs%2C+auth%2C+and+real-time+flows" />
+</a>
 
-I am a full-stack developer who leans frontend. I build responsive, accessible, and maintainable web applications with polished interfaces, practical backend systems, and strong product sense.
+- I am currently sharpening frontend architecture, UI polish, and production-ready Next.js apps.
+- I build across the stack with React, TypeScript, Node.js, APIs, auth, PostgreSQL, Prisma, and Supabase.
+- I like turning product ideas into responsive interfaces, reusable components, and reliable workflows.
+- Pronouns: He/Him
+- Based in New York.
 
-My favorite work sits where UI quality meets real engineering: component architecture, clean data flows, API integration, authentication, performance, and documentation that makes a project easy to understand.
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LJebry)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/LJebry/jerrys-portfolio-v2)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerryrobayo1130@gmail.com)
+[![Projects](https://img.shields.io/badge/Projects-14B8A6?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/LJebry?tab=repositories)
 
-## Toolbox
+[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Focus](https://img.shields.io/badge/Focus-Frontend_Engineering-38BDF8?style=for-the-badge)]()
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="Frontend and full-stack tools" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,html,css,nodejs,express,postgres,prisma,supabase,git,github,vercel,vscode&theme=dark&perline=9">
-  </a>
-</p>
+---
 
-| Frontend | Backend | Product Engineering |
-| --- | --- | --- |
-| React, Next.js, TypeScript, Tailwind CSS, Vite | Node.js, Express, PostgreSQL, Prisma, Supabase | Accessibility, responsive UI, API design, auth, performance, docs |
+<img align="right" alt="Coding GIF" height="175px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-## Featured Builds
+### Currently Building
 
-<p align="center">
-  <a href="https://github.com/LJebry/EchoLingo">
-    <img height="160" alt="EchoLingo project card" src="./assets/echolingo-card.svg">
-  </a>
-  <a href="https://github.com/LJebry/WebDrop">
-    <img height="160" alt="WebDrop project card" src="./assets/webdrop-card.svg">
-  </a>
-</p>
+- [EchoLingo](https://github.com/LJebry/EchoLingo) - mobile-first AI translation with live conversation mode, auth, saved history, and voice playback.
+- [WebDrop](https://github.com/LJebry/WebDrop) - browser-to-browser file transfer with nearby discovery, Socket.IO signaling, and WebRTC data channels.
+- [Jerry's Portfolio V2](https://github.com/LJebry/jerrys-portfolio-v2) - editorial developer portfolio with project storytelling and a polished visual system.
+- [VETPET](https://github.com/LJebry/VETPET) - responsive veterinary clinic website built for a real local business.
 
-<p align="center">
-  <a href="https://github.com/LJebry/jerrys-portfolio-v2">
-    <img height="160" alt="Jerry's Portfolio V2 project card" src="./assets/portfolio-card.svg">
-  </a>
-  <a href="https://github.com/LJebry/VETPET">
-    <img height="160" alt="VETPET project card" src="./assets/vetpet-card.svg">
-  </a>
-</p>
+---
 
-### Project Notes
+### Developer Dashboard
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [EchoLingo](https://github.com/LJebry/EchoLingo) | Mobile-first translation app with guest translation, two-speaker conversation mode, Google sign-in, saved history, OpenAI translation, and ElevenLabs voice playback. | Next.js, React, TypeScript, Prisma, PostgreSQL, OpenAI, ElevenLabs |
-| [WebDrop](https://github.com/LJebry/WebDrop) | Browser-to-browser file transfer MVP with nearby discovery, Socket.IO signaling, and direct WebRTC data channel transfers. | Next.js, TypeScript, Node.js, Express, Socket.IO, WebRTC |
-| [Jerry's Portfolio V2](https://github.com/LJebry/jerrys-portfolio-v2) | Personal developer portfolio with a cinematic landing page, project cards, experience timeline, contact flow, and a daily Wordle-style page. | Next.js, React, TypeScript, Tailwind CSS |
-| [VETPET](https://github.com/LJebry/VETPET) | Responsive veterinary clinic website built as a polished single-page application for a real local business. | React, Vite, Tailwind CSS, Framer Motion, GSAP |
+```text
+Frontend        React, Next.js, TypeScript, Tailwind CSS, Vite
+Backend         Node.js, Express, PostgreSQL, Prisma, Supabase
+Tools           Git, GitHub, Vercel, VS Code
+Current Focus   Accessible UI, component systems, API integration, real-time apps
+Principles      Clean interfaces, readable code, practical documentation
+```
 
-## How I Work
+---
 
-- Start with the user flow, then shape the component and data model around it.
-- Keep code readable, documented where it matters, and easy to extend.
-- Build interfaces that are responsive, accessible, and polished enough to ship.
-- Treat backend, deployment, and documentation as part of the product experience.
+### Languages and Tools
 
-## GitHub Snapshot
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827)]()
+[![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=111827)]()
 
-<p align="center">
-  <img alt="Jerry Robayo GitHub snapshot" src="./assets/snapshot-card.svg">
-</p>
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)]()
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111827)]()
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-111827?style=for-the-badge&logo=socketdotio&logoColor=white)]()
 
-## Contact
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)]()
+[![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 
-I am open to frontend-focused full-stack roles, collaboration on web products, and projects where user experience and engineering quality both matter.
+---
 
-- GitHub: [github.com/LJebry](https://github.com/LJebry)
-- Portfolio source: [LJebry/jerrys-portfolio-v2](https://github.com/LJebry/jerrys-portfolio-v2)
+### Profile Notes
 
-<p align="center">
-  <img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14b8a6,55:2563eb,100:0f172a">
-</p>
-
-<p align="center">
-  <sub>Visuals powered by open-source README projects: <a href="https://github.com/kyechan99/capsule-render">capsule-render</a>, <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a>, and <a href="https://github.com/tandpfun/skill-icons">skill-icons</a>. Project cards are repo-hosted SVGs for reliable rendering.</sub>
-</p>
+```text
+Open to          Frontend-focused full-stack roles and web product collaborations
+Strongest areas  React UI, Next.js apps, responsive layouts, APIs, auth, docs
+GitHub           github.com/LJebry
+Contact          jerryrobayo1130@gmail.com
+```
