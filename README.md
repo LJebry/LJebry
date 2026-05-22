@@ -3,7 +3,7 @@ Visual credits:
 - capsule-render: https://github.com/kyechan99/capsule-render
 - readme-typing-svg: https://github.com/DenverCoder1/readme-typing-svg
 - skill-icons: https://github.com/tandpfun/skill-icons
-- github-readme-stats: https://github.com/anuraghazra/github-readme-stats
+- project cards: repo-hosted SVGs in ./assets for reliable GitHub rendering
 -->
 
 <p align="center">
@@ -50,19 +50,19 @@ My favorite work sits where UI quality meets real engineering: component archite
 
 <p align="center">
   <a href="https://github.com/LJebry/EchoLingo">
-    <img height="135" alt="EchoLingo repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=LJebry&repo=EchoLingo&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=14b8a6">
+    <img height="160" alt="EchoLingo project card" src="./assets/echolingo-card.svg">
   </a>
   <a href="https://github.com/LJebry/WebDrop">
-    <img height="135" alt="WebDrop repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=LJebry&repo=WebDrop&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=14b8a6">
+    <img height="160" alt="WebDrop project card" src="./assets/webdrop-card.svg">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/LJebry/jerrys-portfolio-v2">
-    <img height="135" alt="Jerry's Portfolio V2 repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=LJebry&repo=jerrys-portfolio-v2&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=14b8a6">
+    <img height="160" alt="Jerry's Portfolio V2 project card" src="./assets/portfolio-card.svg">
   </a>
   <a href="https://github.com/LJebry/VETPET">
-    <img height="135" alt="VETPET repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=LJebry&repo=VETPET&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=14b8a6">
+    <img height="160" alt="VETPET project card" src="./assets/vetpet-card.svg">
   </a>
 </p>
 
@@ -85,8 +85,7 @@ My favorite work sits where UI quality meets real engineering: component archite
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="170" alt="Jerry Robayo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LJebry&show_icons=true&hide_border=true&rank_icon=github&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=14b8a6">
-  <img height="170" alt="Jerry Robayo's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJebry&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb">
+  <img alt="Jerry Robayo GitHub snapshot" src="./assets/snapshot-card.svg">
 </p>
 
 ## Contact
@@ -101,5 +100,5 @@ I am open to frontend-focused full-stack roles, collaboration on web products, a
 </p>
 
 <p align="center">
-  <sub>Visuals powered by open-source README projects: <a href="https://github.com/kyechan99/capsule-render">capsule-render</a>, <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a>, <a href="https://github.com/tandpfun/skill-icons">skill-icons</a>, and <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>.</sub>
+  <sub>Visuals powered by open-source README projects: <a href="https://github.com/kyechan99/capsule-render">capsule-render</a>, <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a>, and <a href="https://github.com/tandpfun/skill-icons">skill-icons</a>. Project cards are repo-hosted SVGs for reliable rendering.</sub>
 </p>

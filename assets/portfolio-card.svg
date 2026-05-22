@@ -1,0 +1,33 @@
+<svg width="560" height="180" viewBox="0 0 560 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jerry's Portfolio V2 project card</title>
+  <desc id="desc">Personal developer portfolio with editorial design and project storytelling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="560" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#991B1B"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="line" x1="28" y1="146" x2="532" y2="146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F87171"/>
+      <stop offset="1" stop-color="#FDBA74"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="180" rx="18" fill="#020617"/>
+  <rect width="560" height="180" rx="18" fill="url(#bg)" opacity="0.34"/>
+  <rect x="386" y="-18" width="148" height="148" rx="36" fill="#F97316" opacity="0.10" transform="rotate(10 386 -18)"/>
+  <rect x="28" y="28" width="58" height="58" rx="16" fill="#0F172A" opacity="0.82"/>
+  <path d="M45 71V45H73V71H45Z" stroke="#FDBA74" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M51 58H67" stroke="#F87171" stroke-width="4" stroke-linecap="round"/>
+  <text x="104" y="51" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="800">Jerry's Portfolio V2</text>
+  <text x="104" y="79" fill="#FED7AA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Editorial portfolio, project cards, timeline, contact flow</text>
+  <text x="28" y="116" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">A dark portfolio system built to present engineering work with personality.</text>
+  <rect x="28" y="134" width="504" height="2" rx="1" fill="url(#line)"/>
+  <rect x="28" y="149" width="68" height="22" rx="11" fill="#1E293B"/>
+  <text x="42" y="165" fill="#FFEDD5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Next.js</text>
+  <rect x="106" y="149" width="58" height="22" rx="11" fill="#1E293B"/>
+  <text x="121" y="165" fill="#FFEDD5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">React</text>
+  <rect x="174" y="149" width="78" height="22" rx="11" fill="#1E293B"/>
+  <text x="189" y="165" fill="#FFEDD5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">TypeScript</text>
+  <rect x="262" y="149" width="72" height="22" rx="11" fill="#1E293B"/>
+  <text x="276" y="165" fill="#FFEDD5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Tailwind</text>
+</svg>
