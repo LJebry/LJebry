@@ -10,12 +10,12 @@ Visual credits:
 
 # Hi there, I'm Jerry - aka LJebry <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="Developer GIF" height="170px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Developer animation" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Frontend-Focused Full-Stack Developer
+### I'm a Frontend-Focused Full-Stack Developer
 
 <a href="https://git.io/typing-svg">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=38BDF8&width=650&lines=React+%2B+Next.js+developer;TypeScript-first+frontend+engineer;Full-stack+builder+with+product+taste;Clean+UI%2C+APIs%2C+auth%2C+and+real-time+flows" />
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=38BDF8&width=500&lines=React+%2B+Next.js+developer;TypeScript-first+frontend+engineer;Full-stack+builder+with+product+taste;Clean+UI%2C+APIs%2C+auth%2C+real-time+flows" />
 </a>
 
 - I am currently sharpening frontend architecture, UI polish, and production-ready Next.js apps.
@@ -34,7 +34,7 @@ Visual credits:
 
 ---
 
-<img align="right" alt="Coding GIF" height="175px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="Coding animation" width="260" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### Currently Building
 
