@@ -36,7 +36,7 @@ Visual credits:
 
 <img align="right" alt="Coding animation" width="260" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### Currently Building
+### Some of my projects
 
 - [EchoLingo](https://github.com/LJebry/EchoLingo) - mobile-first AI translation with live conversation mode, auth, saved history, and voice playback.
 - [WebDrop](https://github.com/LJebry/WebDrop) - browser-to-browser file transfer with nearby discovery, Socket.IO signaling, and WebRTC data channels.
